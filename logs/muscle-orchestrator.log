@@ -1,0 +1,343 @@
+2020-05-31 22:36:27 INFO     ------------------
+2020-05-31 22:36:27 INFO     Split task Starts
+2020-05-31 22:36:27 INFO     ------------------
+2020-05-31 22:36:27 INFO     input arguments: []
+2020-05-31 22:36:27 ERROR    Input Error. You must specify a valid file. Exiting the application..
+2020-05-31 22:36:27 INFO     -------------
+2020-05-31 22:36:27 INFO     Terminating..
+2020-05-31 22:36:27 INFO     -------------
+2020-05-31 22:37:57 INFO     ------------------
+2020-05-31 22:37:57 INFO     Split task Starts
+2020-05-31 22:37:57 INFO     ------------------
+2020-05-31 22:37:57 INFO     input arguments: []
+2020-05-31 22:37:57 ERROR    Input Error. You must specify a valid file. Exiting the application..
+2020-05-31 22:37:57 INFO     -------------
+2020-05-31 22:37:57 INFO     Terminating..
+2020-05-31 22:37:57 INFO     -------------
+2020-05-31 23:20:49 INFO     ------------------------------
+2020-05-31 23:20:49 INFO     MUSCLE one file process starts
+2020-05-31 23:20:49 INFO     ------------------------------
+2020-05-31 23:20:49 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:20:49 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:20:49 INFO     Path:
+2020-05-31 23:20:49 INFO     ../data/input/in1.fas
+2020-05-31 23:20:49 INFO     File name:
+2020-05-31 23:20:49 INFO     in1.fas
+2020-05-31 23:20:49 INFO     Number of sequences:
+2020-05-31 23:20:49 INFO     5.0
+2020-05-31 23:20:49 INFO     ------------------------
+2020-05-31 23:20:49 INFO     MUSCLE process Completes
+2020-05-31 23:20:49 INFO     ------------------------
+2020-05-31 23:21:03 INFO     ------------------------------
+2020-05-31 23:21:03 INFO     MUSCLE one file process starts
+2020-05-31 23:21:03 INFO     ------------------------------
+2020-05-31 23:21:03 INFO     input arguments: ['-f', '../data/input/in1.fasa']
+2020-05-31 23:21:03 INFO     processing option: -f with arguments: ../data/input/in1.fasa
+2020-05-31 23:21:03 INFO     Path:
+2020-05-31 23:21:03 INFO     ../data/input/in1.fasa
+2020-05-31 23:21:03 INFO     File name:
+2020-05-31 23:21:03 INFO     in1.fasa
+2020-05-31 23:21:03 ERROR    Input file error:
+2020-05-31 23:21:03 ERROR    [Errno 2] No such file or directory: '../data/input/in1.fasa'
+2020-05-31 23:21:03 INFO     -------------
+2020-05-31 23:21:03 INFO     Terminating..
+2020-05-31 23:21:03 INFO     -------------
+2020-05-31 23:21:22 INFO     ------------------------------
+2020-05-31 23:21:22 INFO     MUSCLE one file process starts
+2020-05-31 23:21:22 INFO     ------------------------------
+2020-05-31 23:21:22 INFO     input arguments: []
+2020-05-31 23:21:22 ERROR    Input Error. You must specify a valid file. Exiting the application..
+2020-05-31 23:21:22 INFO     -------------
+2020-05-31 23:21:22 INFO     Terminating..
+2020-05-31 23:21:22 INFO     -------------
+2020-05-31 23:21:50 INFO     ------------------------------
+2020-05-31 23:21:50 INFO     MUSCLE one file process starts
+2020-05-31 23:21:50 INFO     ------------------------------
+2020-05-31 23:21:50 INFO     input arguments: []
+2020-05-31 23:21:50 ERROR    Input Error. You must specify a valid file. Exiting the application..
+2020-05-31 23:21:50 INFO     -------------
+2020-05-31 23:21:50 INFO     Terminating..
+2020-05-31 23:21:50 INFO     -------------
+2020-05-31 23:22:09 INFO     ------------------------------
+2020-05-31 23:22:09 INFO     MUSCLE one file process starts
+2020-05-31 23:22:09 INFO     ------------------------------
+2020-05-31 23:22:09 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:22:09 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:22:09 INFO     Path:
+2020-05-31 23:22:09 INFO     ../data/input/in1.fas
+2020-05-31 23:22:09 INFO     File name:
+2020-05-31 23:22:09 INFO     in1.fas
+2020-05-31 23:22:09 INFO     Number of sequences:
+2020-05-31 23:22:09 INFO     5.0
+2020-05-31 23:22:09 INFO     ------------------------
+2020-05-31 23:22:09 INFO     MUSCLE process Completes
+2020-05-31 23:22:09 INFO     ------------------------
+2020-05-31 23:37:22 INFO     ------------------------------
+2020-05-31 23:37:22 INFO     MUSCLE one file process starts
+2020-05-31 23:37:22 INFO     ------------------------------
+2020-05-31 23:37:22 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:37:22 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:37:22 INFO     Path:
+2020-05-31 23:37:22 INFO     ../data/input/in1.fas
+2020-05-31 23:37:22 INFO     File name:
+2020-05-31 23:37:22 INFO     in1.fas
+2020-05-31 23:37:22 INFO     Number of sequences:
+2020-05-31 23:37:22 INFO     5.0
+2020-05-31 23:38:06 INFO     ------------------------------
+2020-05-31 23:38:06 INFO     MUSCLE one file process starts
+2020-05-31 23:38:06 INFO     ------------------------------
+2020-05-31 23:38:06 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:38:06 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:38:06 INFO     Path:
+2020-05-31 23:38:06 INFO     ../data/input/in1.fas
+2020-05-31 23:38:06 INFO     File name:
+2020-05-31 23:38:06 INFO     in1.fas
+2020-05-31 23:38:06 INFO     Number of sequences:
+2020-05-31 23:38:06 INFO     5.0
+2020-05-31 23:38:24 INFO     ------------------------------
+2020-05-31 23:38:24 INFO     MUSCLE one file process starts
+2020-05-31 23:38:24 INFO     ------------------------------
+2020-05-31 23:38:24 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:38:24 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:38:24 INFO     Path:
+2020-05-31 23:38:24 INFO     ../data/input/in1.fas
+2020-05-31 23:38:24 INFO     File name:
+2020-05-31 23:38:24 INFO     in1.fas
+2020-05-31 23:38:24 INFO     Number of sequences:
+2020-05-31 23:38:24 INFO     5.0
+2020-05-31 23:38:31 INFO     ------------------------------
+2020-05-31 23:38:31 INFO     MUSCLE one file process starts
+2020-05-31 23:38:31 INFO     ------------------------------
+2020-05-31 23:38:31 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:38:31 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:38:31 INFO     Path:
+2020-05-31 23:38:31 INFO     ../data/input/in1.fas
+2020-05-31 23:38:31 INFO     File name:
+2020-05-31 23:38:31 INFO     in1.fas
+2020-05-31 23:38:31 INFO     Number of sequences:
+2020-05-31 23:38:31 INFO     5.0
+2020-05-31 23:39:34 INFO     ------------------------------
+2020-05-31 23:39:34 INFO     MUSCLE one file process starts
+2020-05-31 23:39:34 INFO     ------------------------------
+2020-05-31 23:39:34 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:39:34 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:39:34 INFO     Path:
+2020-05-31 23:39:34 INFO     ../data/input/in1.fas
+2020-05-31 23:39:34 INFO     File name:
+2020-05-31 23:39:34 INFO     in1.fas
+2020-05-31 23:39:34 INFO     Number of sequences:
+2020-05-31 23:39:34 INFO     5.0
+2020-05-31 23:39:34 INFO     Starting MUSCLE..
+2020-05-31 23:39:34 INFO     ------------------------
+2020-05-31 23:39:34 INFO     MUSCLE process Completes
+2020-05-31 23:39:34 INFO     ------------------------
+2020-05-31 23:41:10 INFO     ------------------------------
+2020-05-31 23:41:10 INFO     MUSCLE one file process starts
+2020-05-31 23:41:10 INFO     ------------------------------
+2020-05-31 23:41:10 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:41:10 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:41:10 INFO     Path:
+2020-05-31 23:41:10 INFO     ../data/input/in1.fas
+2020-05-31 23:41:10 INFO     File name:
+2020-05-31 23:41:10 INFO     in1.fas
+2020-05-31 23:41:10 INFO     Number of sequences:
+2020-05-31 23:41:10 INFO     5.0
+2020-05-31 23:41:10 INFO     Starting MUSCLE..
+2020-05-31 23:41:10 INFO     ------------------------
+2020-05-31 23:41:10 INFO     MUSCLE process Completes
+2020-05-31 23:41:10 INFO     ------------------------
+2020-05-31 23:41:33 INFO     ------------------------------
+2020-05-31 23:41:33 INFO     MUSCLE one file process starts
+2020-05-31 23:41:33 INFO     ------------------------------
+2020-05-31 23:41:33 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:41:33 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:41:33 INFO     Path:
+2020-05-31 23:41:33 INFO     ../data/input/in1.fas
+2020-05-31 23:41:33 INFO     File name:
+2020-05-31 23:41:33 INFO     in1.fas
+2020-05-31 23:41:33 INFO     Number of sequences:
+2020-05-31 23:41:33 INFO     5.0
+2020-05-31 23:41:33 INFO     Starting MUSCLE..
+2020-05-31 23:41:33 INFO     ------------------------
+2020-05-31 23:41:33 INFO     MUSCLE process Completes
+2020-05-31 23:41:33 INFO     ------------------------
+2020-05-31 23:45:21 INFO     ------------------------------
+2020-05-31 23:45:21 INFO     MUSCLE one file process starts
+2020-05-31 23:45:21 INFO     ------------------------------
+2020-05-31 23:45:21 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:45:21 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:45:21 INFO     Path:
+2020-05-31 23:45:21 INFO     ../data/input/in1.fas
+2020-05-31 23:45:21 INFO     Filename:
+2020-05-31 23:45:21 INFO     in1.fas
+2020-05-31 23:45:21 INFO     Number of sequences:
+2020-05-31 23:45:21 INFO     5.0
+2020-05-31 23:45:21 INFO     Starting MUSCLE..
+2020-05-31 23:45:21 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in1.fas -out ../data/output/out1.fas
+2020-05-31 23:46:00 INFO     ------------------------------
+2020-05-31 23:46:00 INFO     MUSCLE one file process starts
+2020-05-31 23:46:00 INFO     ------------------------------
+2020-05-31 23:46:00 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:46:00 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:46:00 INFO     Path:
+2020-05-31 23:46:00 INFO     ../data/input/in1.fas
+2020-05-31 23:46:00 INFO     Filename:
+2020-05-31 23:46:00 INFO     in1.fas
+2020-05-31 23:46:00 INFO     Number of sequences:
+2020-05-31 23:46:00 INFO     5.0
+2020-05-31 23:46:00 INFO     Starting MUSCLE..
+2020-05-31 23:46:00 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in1.fas -out ../data/output/out1.fas
+2020-05-31 23:47:52 INFO     ------------------------------
+2020-05-31 23:47:52 INFO     MUSCLE one file process starts
+2020-05-31 23:47:52 INFO     ------------------------------
+2020-05-31 23:47:52 INFO     input arguments: ['-f', '../data/input/in1.fas']
+2020-05-31 23:47:52 INFO     processing option: -f with arguments: ../data/input/in1.fas
+2020-05-31 23:47:52 INFO     Path:
+2020-05-31 23:47:52 INFO     ../data/input/in1.fas
+2020-05-31 23:47:52 INFO     Filename:
+2020-05-31 23:47:52 INFO     in1.fas
+2020-05-31 23:47:52 INFO     Number of sequences:
+2020-05-31 23:47:52 INFO     5.0
+2020-05-31 23:47:52 INFO     Starting MUSCLE..
+2020-05-31 23:47:52 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in1.fas -out ../data/output/out1.afas
+2020-05-31 23:57:53 INFO     return, 0
+2020-05-31 23:57:53 INFO     output, b''
+2020-05-31 23:57:53 ERROR    error, b'\nMUSCLE v3.8.31 by Robert C. Edgar\n\nhttp://www.drive5.com/muscle\nThis software is donated to the public domain.\nPlease cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.\n\nin1 5 seqs, max length 29786, avg  length 29784\n00:00:00      2 MB(0%)  Iter   1    6.67%  K-mer dist pass 1\r00:00:00      2 MB(0%)  Iter   1  100.00%  K-mer dist pass 1\r\n00:00:00      2 MB(0%)  Iter   1    6.67%  K-mer dist pass 2\r00:00:00      2 MB(0%)  Iter   1  100.00%  K-mer dist pass 2\r\n00:00:00     19 MB(0%)  Iter   1   25.00%  Align node       \r00:00:53   865 MB(10%)  Iter   1   50.00%  Align node\r00:01:40  1001 MB(12%)  Iter   1   75.00%  Align node\r00:02:29  1001 MB(12%)  Iter   1  100.00%  Align node\r00:03:15  1001 MB(12%)  Iter   1  100.00%  Align node\r\n00:03:15  1001 MB(12%)  Iter   1   20.00%  Root alignment\r00:03:15  1001 MB(12%)  Iter   1   40.00%  Root alignment\r00:03:15  1001 MB(12%)  Iter   1   60.00%  Root alignment\r00:03:15  1001 MB(12%)  Iter   1   80.00%  Root alignment\r00:03:15  1001 MB(12%)  Iter   1  100.00%  Root alignment\r00:03:15  1001 MB(12%)  Iter   1  100.00%  Root alignment\r\n00:03:15  1001 MB(12%)  Iter   2   33.33%  Refine tree   \r00:04:03  1014 MB(12%)  Iter   2   66.67%  Refine tree\r00:04:55  1014 MB(12%)  Iter   2  100.00%  Refine tree\r00:05:33  1014 MB(12%)  Iter   2  100.00%  Refine tree\r\n00:05:33  1014 MB(12%)  Iter   2   20.00%  Root alignment\r00:05:33  1014 MB(12%)  Iter   2   40.00%  Root alignment\r00:05:33  1014 MB(12%)  Iter   2   60.00%  Root alignment\r00:05:33  1014 MB(12%)  Iter   2   80.00%  Root alignment\r00:05:33  1014 MB(12%)  Iter   2  100.00%  Root alignment\r00:05:33  1014 MB(12%)  Iter   2  100.00%  Root alignment\r\n00:05:33  1014 MB(12%)  Iter   2  100.00%  Root alignment\r\n00:06:06  1014 MB(12%)  Iter   3   28.57%  Refine biparts\r00:06:44  1014 MB(12%)  Iter   3   42.86%  Refine biparts\r00:07:36  1014 MB(12%)  Iter   3   57.14%  Refine biparts\r00:08:12  1014 MB(12%)  Iter   3   71.43%  Refine biparts\r00:08:45  1014 MB(12%)  Iter   3   85.71%  Refine biparts\r00:09:22  1014 MB(12%)  Iter   3  100.00%  Refine biparts\r00:10:01  1014 MB(12%)  Iter   3  114.29%  Refine biparts\r00:10:01  1014 MB(12%)  Iter   3  100.00%  Refine biparts\r\n'
+2020-05-31 23:57:53 INFO     ------------------------
+2020-05-31 23:57:53 INFO     MUSCLE process Completes
+2020-05-31 23:57:53 INFO     ------------------------
+2020-06-01 14:06:54 INFO     ------------------------------
+2020-06-01 14:06:54 INFO     MUSCLE one file process starts
+2020-06-01 14:06:54 INFO     ------------------------------
+2020-06-01 14:06:54 INFO     input arguments: []
+2020-06-01 14:06:54 ERROR    Input Error. You must specify a valid file. Exiting the application..
+2020-06-01 14:06:54 INFO     -------------
+2020-06-01 14:06:54 INFO     Terminating..
+2020-06-01 14:06:54 INFO     -------------
+2020-06-01 15:13:50 INFO     ------------------------------
+2020-06-01 15:13:50 INFO     MUSCLE one file process starts
+2020-06-01 15:13:50 INFO     ------------------------------
+2020-06-01 15:13:50 INFO     input arguments: []
+2020-06-01 15:13:50 ERROR    Input Error. You must specify a valid file. Exiting the application..
+2020-06-01 15:13:50 INFO     -------------
+2020-06-01 15:13:50 INFO     Terminating..
+2020-06-01 15:13:50 INFO     -------------
+2020-06-01 15:14:11 INFO     ------------------------------
+2020-06-01 15:14:11 INFO     MUSCLE one file process starts
+2020-06-01 15:14:11 INFO     ------------------------------
+2020-06-01 15:14:11 INFO     input arguments: ['-f', '../data/input/in2.fas']
+2020-06-01 15:14:11 INFO     processing option: -f with arguments: ../data/input/in2.fas
+2020-06-01 15:14:11 INFO     Path:
+2020-06-01 15:14:11 INFO     ../data/input/in2.fas
+2020-06-01 15:14:11 INFO     Filename:
+2020-06-01 15:14:11 INFO     in2.fas
+2020-06-01 15:14:11 INFO     Number of sequences:
+2020-06-01 15:14:11 INFO     5.0
+2020-06-01 15:14:11 INFO     Starting MUSCLE..
+2020-06-01 15:14:11 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in2.fas -out ../data/output/out2.afas
+2020-06-01 15:15:11 INFO     ------------------------------
+2020-06-01 15:15:11 INFO     MUSCLE one file process starts
+2020-06-01 15:15:11 INFO     ------------------------------
+2020-06-01 15:15:11 INFO     input arguments: ['-f', '../data/input/in2.fas']
+2020-06-01 15:15:11 INFO     processing option: -f with arguments: ../data/input/in2.fas
+2020-06-01 15:15:11 INFO     Path:
+2020-06-01 15:15:11 INFO     ../data/input/in2.fas
+2020-06-01 15:15:11 INFO     Filename:
+2020-06-01 15:15:11 INFO     in2.fas
+2020-06-01 15:15:11 INFO     Number of sequences:
+2020-06-01 15:15:11 INFO     5.0
+2020-06-01 15:15:11 INFO     Starting MUSCLE..
+2020-06-01 15:15:11 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in2.fas -out ../data/output/out2.afas
+2020-06-01 15:15:45 INFO     ------------------------------
+2020-06-01 15:15:45 INFO     MUSCLE one file process starts
+2020-06-01 15:15:45 INFO     ------------------------------
+2020-06-01 15:15:45 INFO     input arguments: ['-f', '../data/input/in2.fas']
+2020-06-01 15:15:45 INFO     processing option: -f with arguments: ../data/input/in2.fas
+2020-06-01 15:15:45 INFO     Path:
+2020-06-01 15:15:45 INFO     ../data/input/in2.fas
+2020-06-01 15:15:45 INFO     Filename:
+2020-06-01 15:15:45 INFO     in2.fas
+2020-06-01 15:15:45 INFO     Number of sequences:
+2020-06-01 15:15:45 INFO     5.0
+2020-06-01 15:15:45 INFO     Starting MUSCLE..
+2020-06-01 15:15:45 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in2.fas -out ../data/output/out2.afas
+2020-06-01 15:17:07 INFO     ------------------------------
+2020-06-01 15:17:07 INFO     MUSCLE one file process starts
+2020-06-01 15:17:07 INFO     ------------------------------
+2020-06-01 15:17:07 INFO     input arguments: ['-f', '../data/input/in2.fas']
+2020-06-01 15:17:07 INFO     processing option: -f with arguments: ../data/input/in2.fas
+2020-06-01 15:17:07 INFO     Path:
+2020-06-01 15:17:07 INFO     ../data/input/in2.fas
+2020-06-01 15:17:07 INFO     Filename:
+2020-06-01 15:17:07 INFO     in2.fas
+2020-06-01 15:17:07 INFO     Number of sequences:
+2020-06-01 15:17:07 INFO     5.0
+2020-06-01 15:17:07 INFO     Starting MUSCLE..
+2020-06-01 15:17:07 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in2.fas -out ../data/output/out2.afas
+2020-06-01 15:17:24 INFO     ------------------------------
+2020-06-01 15:17:24 INFO     MUSCLE one file process starts
+2020-06-01 15:17:24 INFO     ------------------------------
+2020-06-01 15:17:24 INFO     input arguments: ['-f']
+2020-06-01 15:17:24 ERROR    option -f requires argument
+2020-06-01 15:17:24 INFO     -------------
+2020-06-01 15:17:24 INFO     Terminating..
+2020-06-01 15:17:24 INFO     -------------
+2020-06-01 15:17:41 INFO     ------------------------------
+2020-06-01 15:17:41 INFO     MUSCLE one file process starts
+2020-06-01 15:17:41 INFO     ------------------------------
+2020-06-01 15:17:41 INFO     input arguments: ['-f', '-f']
+2020-06-01 15:17:41 INFO     processing option: -f with arguments: -f
+2020-06-01 15:17:41 INFO     Path:
+2020-06-01 15:17:41 INFO     -f
+2020-06-01 15:17:41 INFO     Filename:
+2020-06-01 15:17:41 INFO     -f
+2020-06-01 15:17:41 ERROR    Input file error:
+2020-06-01 15:17:41 ERROR    [Errno 2] No such file or directory: '-f'
+2020-06-01 15:17:41 INFO     -------------
+2020-06-01 15:17:41 INFO     Terminating..
+2020-06-01 15:17:41 INFO     -------------
+2020-06-01 15:17:50 INFO     ------------------------------
+2020-06-01 15:17:50 INFO     MUSCLE one file process starts
+2020-06-01 15:17:50 INFO     ------------------------------
+2020-06-01 15:17:50 INFO     input arguments: ['-f', '../data/input/in2.fas']
+2020-06-01 15:17:50 INFO     processing option: -f with arguments: ../data/input/in2.fas
+2020-06-01 15:17:50 INFO     Path:
+2020-06-01 15:17:50 INFO     ../data/input/in2.fas
+2020-06-01 15:17:50 INFO     Filename:
+2020-06-01 15:17:50 INFO     in2.fas
+2020-06-01 15:17:50 INFO     Number of sequences:
+2020-06-01 15:17:50 INFO     5.0
+2020-06-01 15:17:50 INFO     Starting MUSCLE..
+2020-06-01 15:17:50 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in2.fas -out ../data/output/out2.afas
+2020-06-01 15:18:31 INFO     ------------------------------
+2020-06-01 15:18:31 INFO     MUSCLE one file process starts
+2020-06-01 15:18:31 INFO     ------------------------------
+2020-06-01 15:18:31 INFO     input arguments: ['-f', '../data/input/in2.fas']
+2020-06-01 15:18:31 INFO     processing option: -f with arguments: ../data/input/in2.fas
+2020-06-01 15:18:31 INFO     Path:
+2020-06-01 15:18:31 INFO     ../data/input/in2.fas
+2020-06-01 15:18:31 INFO     Filename:
+2020-06-01 15:18:31 INFO     in2.fas
+2020-06-01 15:18:31 INFO     Number of sequences:
+2020-06-01 15:18:31 INFO     5.0
+2020-06-01 15:18:31 INFO     Starting MUSCLE..
+2020-06-01 15:18:31 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in2.fas -out ../data/output/out2.afas
+2020-06-01 15:18:58 INFO     ------------------------------
+2020-06-01 15:18:58 INFO     MUSCLE one file process starts
+2020-06-01 15:18:58 INFO     ------------------------------
+2020-06-01 15:18:58 INFO     input arguments: ['-f', '../data/input/in2.fas']
+2020-06-01 15:18:58 INFO     processing option: -f with arguments: ../data/input/in2.fas
+2020-06-01 15:18:58 INFO     Path:
+2020-06-01 15:18:58 INFO     ../data/input/in2.fas
+2020-06-01 15:18:58 INFO     Filename:
+2020-06-01 15:18:58 INFO     in2.fas
+2020-06-01 15:18:58 INFO     Number of sequences:
+2020-06-01 15:18:58 INFO     5.0
+2020-06-01 15:18:58 INFO     Starting MUSCLE..
+2020-06-01 15:18:58 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in2.fas -out ../data/output/out2.afas
+2020-06-01 15:27:35 INFO     return, 0
+2020-06-01 15:27:35 INFO     output, b''
+2020-06-01 15:27:35 ERROR    error, b'\nMUSCLE v3.8.31 by Robert C. Edgar\n\nhttp://www.drive5.com/muscle\nThis software is donated to the public domain.\nPlease cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.\n\nin2 5 seqs, max length 29786, avg  length 29784\n00:00:00      2 MB(0%)  Iter   1    6.67%  K-mer dist pass 1\r00:00:00      2 MB(0%)  Iter   1  100.00%  K-mer dist pass 1\r\n00:00:00      2 MB(0%)  Iter   1    6.67%  K-mer dist pass 2\r00:00:00      2 MB(0%)  Iter   1  100.00%  K-mer dist pass 2\r\n00:00:00     20 MB(0%)  Iter   1   25.00%  Align node       \r00:00:45   993 MB(12%)  Iter   1   50.00%  Align node\r00:01:32   993 MB(12%)  Iter   1   75.00%  Align node\r00:02:37   993 MB(12%)  Iter   1  100.00%  Align node\r00:03:28   993 MB(12%)  Iter   1  100.00%  Align node\r\n00:03:28   993 MB(12%)  Iter   1   20.00%  Root alignment\r00:03:28   993 MB(12%)  Iter   1   40.00%  Root alignment\r00:03:28   993 MB(12%)  Iter   1   60.00%  Root alignment\r00:03:28   993 MB(12%)  Iter   1   80.00%  Root alignment\r00:03:28   993 MB(12%)  Iter   1  100.00%  Root alignment\r00:03:28   993 MB(12%)  Iter   1  100.00%  Root alignment\r\n00:03:28   993 MB(12%)  Iter   2  100.00%  Root alignment\r\n00:04:20   993 MB(12%)  Iter   3   28.57%  Refine biparts\r00:05:06   993 MB(12%)  Iter   3   42.86%  Refine biparts\r00:05:49   993 MB(12%)  Iter   3   57.14%  Refine biparts\r00:06:32   993 MB(12%)  Iter   3   71.43%  Refine biparts\r00:07:12   993 MB(12%)  Iter   3   85.71%  Refine biparts\r00:07:53   993 MB(12%)  Iter   3  100.00%  Refine biparts\r00:08:37   993 MB(12%)  Iter   3  114.29%  Refine biparts\r00:08:37   993 MB(12%)  Iter   3  100.00%  Refine biparts\r\n'
+2020-06-01 15:27:35 INFO     ------------------------
+2020-06-01 15:27:35 INFO     MUSCLE process Completed
+2020-06-01 15:27:35 INFO     ------------------------
