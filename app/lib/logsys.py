@@ -2,10 +2,17 @@ import logging
 import sys
 
 class Log:
-    logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',
-                        filename='../logs/muscle.log',
-                        level=logging.INFO,
-                        datefmt='%Y-%m-%d %H:%M:%S')
+
+    def __init__(self,FileName):
+        print("test")
+        logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',
+                            filename='../data/logs/muscle-{}.log'.format(FileName),
+                            level=logging.INFO,
+                            datefmt='%Y-%m-%d %H:%M:%S')
+
+    @classmethod
+    def logFile(cls, text):
+        logging.basicConfig()
 
     @classmethod
     def debug(cls, text):

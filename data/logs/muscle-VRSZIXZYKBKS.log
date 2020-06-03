@@ -1,0 +1,13 @@
+2020-06-03 20:11:32 INFO     ------------------------------
+2020-06-03 20:11:32 INFO     MUSCLE one file process starts
+2020-06-03 20:11:32 INFO     ------------------------------
+2020-06-03 20:11:32 INFO     input arguments: ['-f', '../data/input/in2.fas']
+2020-06-03 20:11:32 INFO     processing option: -f with arguments: ../data/input/in2.fas
+2020-06-03 20:11:32 INFO     Path:
+2020-06-03 20:11:32 INFO     ../data/input/in2.fas
+2020-06-03 20:11:32 INFO     Filename:
+2020-06-03 20:11:32 INFO     in2.fas
+2020-06-03 20:11:32 INFO     Number of sequences:
+2020-06-03 20:11:32 INFO     5.0
+2020-06-03 20:11:32 INFO     Starting MUSCLE..
+2020-06-03 20:11:32 INFO     Running system command: bin/muscle3.8.31_i86darwin64 -in ../data/input/in2.fas -out ../data/output/out2.afas

@@ -1,4 +1,7 @@
+#!/usr/bin/python
 import sys
+from random import choice
+from string import ascii_uppercase
 
 sys.path.append("../")
 from app.lib.input import Input
@@ -6,6 +9,8 @@ from app.lib.logsys import Log
 from app.lib.system import System
 
 def main():
+
+    log = Log(''.join(choice(ascii_uppercase) for i in range(12)))
     Log.info('------------------------------')
     Log.info('MUSCLE one file process starts')
     Log.info('------------------------------')
@@ -39,7 +44,7 @@ def main():
 
 def muscle(input, output):
     (ret, out, err) = System.command(
-        ['bin/muscle',
+        ['bin/muscle3.8.31_i86darwin64',
          '-in', input,
          '-out', output])
     return ret,out,err
