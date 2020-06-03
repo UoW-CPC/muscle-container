@@ -44,7 +44,7 @@ def main():
 
 def muscle(input, output):
     (ret, out, err) = System.command(
-        ['bin/muscle3.8.31_i86darwin64',
+        ['bin/muscle',
          '-in', input,
          '-out', output])
     return ret,out,err
