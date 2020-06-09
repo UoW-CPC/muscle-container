@@ -4,7 +4,6 @@ import sys
 class Log:
 
     def __init__(self,FileName):
-        print("test")
         logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',
                             filename='../data/logs/muscle-{}.log'.format(FileName),
                             level=logging.INFO,
