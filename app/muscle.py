@@ -12,7 +12,7 @@ def main():
 
     log = Log(''.join(choice(ascii_uppercase) for i in range(12)))
     Log.info('------------------------------')
-    Log.info('MUSCLE one file process starts')
+    Log.info('MUSCLE Process Starts')
     Log.info('------------------------------')
     inputArgs = sys.argv
     args = inputArgs[1:]
@@ -39,7 +39,7 @@ def main():
     Log.info("output, {}".format(out))
     Log.error("error, {}".format(err))
     Log.info('------------------------')
-    Log.info('MUSCLE process Completed')
+    Log.info('MUSCLE Process Completes')
     Log.info('------------------------')
 
 def muscle(input, output):
